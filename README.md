@@ -10,4 +10,4 @@ Each assignment will need to be copied from this repository over to the relevant
 
 ## Homework
 
-0. [Homework 0](https://github.com/trogdoncourses/amath-586-2020/blob/master/hw0/hw0.ipynb)
+0. [Homework 0](https://classroom.github.com/a/ZfByj_Ip)
