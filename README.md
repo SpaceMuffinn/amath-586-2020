@@ -10,4 +10,4 @@ Each assignment will need to be copied from this repository over to the relevant
 
 ## Homework
 
-0. [Homework 0](https://classroom.github.com/a/ZfByj_Ip)
+0. [Homework 0](https://classroom.github.com/a/rDLLhBFD)
