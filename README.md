@@ -11,3 +11,7 @@ Each assignment will need to be copied from this repository over to the relevant
 ## Homework
 
 0. [Homework 0](https://classroom.github.com/a/rDLLhBFD)
+
+## Lectures
+
+1. `Lecture 01, IVPs`  [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=24fca6dd-6e76-4271-8104-ab8b0175c88c) [pdf](https://drive.google.com/file/d/14Ho6iEnkWzIEtOnlZQVvjbMuwVVuqP2Y/view?usp=sharing)
