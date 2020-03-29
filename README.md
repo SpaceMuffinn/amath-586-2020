@@ -15,3 +15,9 @@ Each assignment will need to be copied from this repository over to the relevant
 ## Lectures
 
 1. `Lecture 01, IVPs`  [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=24fca6dd-6e76-4271-8104-ab8b0175c88c) [pdf](https://drive.google.com/file/d/14Ho6iEnkWzIEtOnlZQVvjbMuwVVuqP2Y/view?usp=sharing)
+
+## Special Topics
+
+These are optional additional lectures going into certain topics to a deeper level.
+
+1. `Functions of matrices` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00023efe-9869-4f96-a597-ab8d01462ef4) [pdf](https://drive.google.com/file/d/1qTbgft-jEanOGP019TV96yvk9CqrDPjk/view?usp=sharing)
