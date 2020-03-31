@@ -4,7 +4,7 @@ On this page you will find homeworks, sample code, usually in the form of Jupyte
 
 For assignment discussion and submission we will use:
 
-[GitHub Classroom](https://classroom.github.com/classrooms/62567303-trogdoncourses-586-2020)
+[GitHub Classroom](https://classroom.github.com)
 
 Each assignment will need to be copied from this repository over to the relevant assignent over there.  The reason for this is that GitHub Classroom currently doesn't allow for the modification of assignments after they are posted.
 
