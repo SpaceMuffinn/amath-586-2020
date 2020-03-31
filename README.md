@@ -15,6 +15,7 @@ Each assignment will need to be copied from this repository over to the relevant
 ## Lectures (login with UW netid)
 
 1. `Lecture 01, IVPs`  [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=24fca6dd-6e76-4271-8104-ab8b0175c88c) [pdf](https://drive.google.com/file/d/14Ho6iEnkWzIEtOnlZQVvjbMuwVVuqP2Y/view?usp=sharing)
+2. `Lecture 02, more on IVPs` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=076e997e-4e85-45a1-ad41-ab8f011cec15) [pdf](https://drive.google.com/file/d/15Z0yKtW6C6SRqGHGTlZoi84aaQ6XN7sR/view?usp=sharing)
 
 ## Special Topics (login with UW netid)
 
