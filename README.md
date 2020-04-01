@@ -8,7 +8,7 @@ For assignment discussion and submission we will use:
 
 Each assignment will need to be copied from this repository over to the relevant assignent over there.  The reason for this is that GitHub Classroom currently doesn't allow for the modification of assignments after they are posted.
 
-The discussion board is found here: https://github.com/orgs/trogdoncourses/teams/586-students
+The discussion board is found here: https://github.com/orgs/trogdoncourses/teams/586-students . If you do not have access and have created at least one git homework repository, let us know.
 
 ## Homework
 
