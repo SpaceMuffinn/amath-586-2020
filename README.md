@@ -13,7 +13,7 @@ The discussion board is found here: https://github.com/orgs/trogdoncourses/teams
 ## Homework
 
 0. [Homework 0](https://classroom.github.com/a/rDLLhBFD) (not for credit)
-0. [Homework 1](https://classroom.github.com/a/p6nUREEm) (Due April 10 at 11pm)
+0. [Homework 1](https://classroom.github.com/a/p6nUREEm) (Due April 10 at 11pm) [pdf](https://github.com/trogdoncourses/amath-586-2020/blob/master/hw1/hw1.pdf)
 
 ## Lectures (login with UW netid)
 
