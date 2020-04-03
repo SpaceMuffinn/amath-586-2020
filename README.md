@@ -22,6 +22,7 @@ The discussion board is found here: [https://github.com/orgs/trogdoncourses/team
 3. `Lecture 03, Euler methods` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ea5e6d8-a3c1-4017-9719-ab90002c415c) [pdf](https://drive.google.com/file/d/1f4wwBcqe63jIZklHOW6IU-fqrNaY1TvA/view?usp=sharing)
 4. `Lecture 04, Multistep methods and truncation errors` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b414a6e-a4c4-43b1-a691-ab91000fc615) [pdf](https://drive.google.com/file/d/1f2v6qdXUPt4vWNQEsIG55sfOXNJAnUI8/view?usp=sharing)
 5. `Lecture 05, Multistage Runge-Kutta methods` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c884495f-593b-425e-a592-ab91012a8096) [pdf](https://drive.google.com/file/d/1dj9_g5Dy2Nn2WU0PX2XSG_SKhd7rGIQR/view?usp=sharing)
+6. `Lecture 06, Linear multistep methods` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f427534-39e6-46ca-8914-ab920003c1b9) [pdf](https://drive.google.com/file/d/1SXkbu7Z0pr9pmWkl4NbMVqJWvtUBmMxN/view?usp=sharing)
 
 ## Special Topics (login with UW netid)
 
