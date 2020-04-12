@@ -13,7 +13,9 @@ The discussion board is found here: [https://github.com/orgs/trogdoncourses/team
 ## Homework
 
 0. [Homework 0](https://classroom.github.com/a/rDLLhBFD) (not for credit)
-0. [Homework 1](https://classroom.github.com/a/p6nUREEm) (Due April 10 at 11pm) [pdf](https://github.com/trogdoncourses/amath-586-2020/blob/master/hw1/hw1.pdf)
+1. [Homework 1](https://classroom.github.com/a/p6nUREEm) (Due April 10 at 11pm) [pdf](https://github.com/trogdoncourses/amath-586-2020/blob/master/hw1/hw1.pdf)
+2. [Homework 2](https://classroom.github.com/a/BWgTZT1I) (Due April 24 at 11pm) [pdf](https://github.com/trogdoncourses/amath-586-2020/blob/master/hw2/hw2.pdf)
+
 
 ## Lectures (login with UW netid)
 
@@ -23,6 +25,9 @@ The discussion board is found here: [https://github.com/orgs/trogdoncourses/team
 4. `Lecture 04, Multistep methods and truncation errors` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b414a6e-a4c4-43b1-a691-ab91000fc615) [pdf](https://drive.google.com/file/d/1f2v6qdXUPt4vWNQEsIG55sfOXNJAnUI8/view?usp=sharing)
 5. `Lecture 05, Multistage Runge-Kutta methods` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c884495f-593b-425e-a592-ab91012a8096) [pdf](https://drive.google.com/file/d/1dj9_g5Dy2Nn2WU0PX2XSG_SKhd7rGIQR/view?usp=sharing)
 6. `Lecture 06, Linear multistep methods` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f427534-39e6-46ca-8914-ab920003c1b9) [pdf](https://drive.google.com/file/d/1SXkbu7Z0pr9pmWkl4NbMVqJWvtUBmMxN/view?usp=sharing)
+7. `Lecture 07, Multistep and multistage demo` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5542ab42-29a4-40fb-b055-ab9901154674) [ipynb](https://github.com/trogdoncourses/amath-586-2020/blob/master/notebooks/Multistage-step.ipynb)
+8. `Lecture 08, Convergence of one-step methods` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76ee08d2-73cd-4f0f-aabd-ab990114f23d) [pdf](https://drive.google.com/file/d/1wq3msvDWvFkpKniuK2wyYai-4qhjKjej/view?usp=sharing)
+9. `Lecture 09, Zero-stability` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f7aa5524-773d-47f2-a152-ab990114f29c) [pdf](https://drive.google.com/file/d/19cSUmXAT-oU89oBros627rfa_dGFMwP-/view?usp=sharing)
 
 ## Special Topics (login with UW netid)
 
