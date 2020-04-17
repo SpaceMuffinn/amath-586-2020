@@ -28,6 +28,9 @@ The discussion board is found here: [https://github.com/orgs/trogdoncourses/team
 7. `Lecture 07, Multistep and multistage demo` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5542ab42-29a4-40fb-b055-ab9901154674) [ipynb](https://github.com/trogdoncourses/amath-586-2020/blob/master/notebooks/Multistage-step.ipynb)
 8. `Lecture 08, Convergence of one-step methods` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76ee08d2-73cd-4f0f-aabd-ab990114f23d) [pdf](https://drive.google.com/file/d/1wq3msvDWvFkpKniuK2wyYai-4qhjKjej/view?usp=sharing)
 9. `Lecture 09, Zero-stability` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f7aa5524-773d-47f2-a152-ab990114f29c) [pdf](https://drive.google.com/file/d/19cSUmXAT-oU89oBros627rfa_dGFMwP-/view?usp=sharing)
+10. `Lecture 10, Absolute stability intro and demo` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e0d122a5-6328-4850-9daf-aba0010fc6fd) [pdf](https://drive.google.com/open?id=1LqP6uA7En0w1nlJCSta1fKgED4mIqrPn) [ipynb](https://github.com/trogdoncourses/amath-586-2020/blob/master/notebooks/StabilityDemo.ipynb)
+11. `Lecture 11, Absolute stability` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6b91a89-2074-4d79-a197-aba0010fc756) [pdf](https://drive.google.com/open?id=1ROeS9mbCfxQ2H_FMkf7OX5kMQp2YEq1Q) [ipynb](https://github.com/trogdoncourses/amath-586-2020/blob/master/notebooks/AbsoluteStabilityRegions.ipynb)
+12. `Lecture 12, More on stability and relative stability` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=609d11b7-4955-4a4f-b051-aba0010fc724) [pdf](https://drive.google.com/open?id=1EnQi4trFlVKG_F5I2j3LlqrmK_-5EsHA) [ipynb](https://github.com/trogdoncourses/amath-586-2020/blob/master/notebooks/RelativeStabilityRegions.ipynb)
 
 ## Special Topics (login with UW netid)
 
@@ -35,3 +38,4 @@ These are optional additional lectures going into certain topics to a deeper lev
 
 1. `Functions of matrices` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00023efe-9869-4f96-a597-ab8d01462ef4) [pdf](https://drive.google.com/file/d/1qTbgft-jEanOGP019TV96yvk9CqrDPjk/view?usp=sharing)
 2. `Runge-Kutta error analysis` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a504a22f-8596-44db-a605-ab9101397076) [pdf](https://drive.google.com/file/d/1-RQlKcvy2Qsik-EyRTPiLb_1GYohB-Ge/view?usp=sharing)
+3. `Dahlquist's Theorem` [video](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9cd65745-5177-43ae-b987-aba0011175d4) [pdf](https://drive.google.com/open?id=1HQqk8b4nP1QnYxZMHsgKDRxMUkHCM2TK)
