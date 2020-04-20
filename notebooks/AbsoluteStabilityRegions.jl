@@ -78,7 +78,6 @@ function convergence_stability(α,β)
         yrange = [minimum(imag(z))-1,maximum(imag(z))+1]
     end
     
-    
     if xrange[1] < -10
         xrange[1] = -4
     end
@@ -92,7 +91,7 @@ function convergence_stability(α,β)
         yrange[2] = 4
     end
     
-    contourf(xrange[1]:0.01(1+rand()/10):xrange[2],yrange[1]:0.01(1+rand()/10):yrange[2],(x,y)-> root_condition(α,β,x+1im*y),colorbar=false)
+    contourf(xrange[1]:0.01:xrange[2],yrange[1]:0.01(1+rand()/10):yrange[2],(x,y)-> root_condition(α,β,x+1im*y),colorbar=false)
     plot!(real(z),imag(z),xlim=xrange,ylim=yrange,aspectratio=1,legend=false,lw=4,linecolor=:orange)
 end
 
@@ -103,8 +102,12 @@ find_roots([-1,0])
 β = [5/12,8/12,-1/12]
 convergence_stability(α,β)
 
+xrange = [-4,4]
+yrange = xrange
+contourf(xrange[1]:0.01(1+rand()/10):xrange[2],yrange[1]:0.01(1+rand()/10):yrange[2],(x,y)-> sign(x),colorbar=false)
+
 # Leapfrog
-α = [1,-1,0]
+α = [1,0,-1]
 β = [0,2,0]
 convergence_stability(α,β)
 
